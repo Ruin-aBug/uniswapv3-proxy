@@ -114,3 +114,4 @@ cache
 artifacts
 build
 data
+.private.mainnet.key
